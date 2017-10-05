@@ -15,7 +15,7 @@
 
 
 
- git clone https://github.com/memotoken3.git && cd memotoken3 && chmod +x launch.sh && ./launch.sh install && ./launch.sh
+ git clone https://github.com/alaajs/memotoken3.git && cd memotoken3 && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 
 
 
